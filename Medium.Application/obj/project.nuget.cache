@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9/IRchi1JWhrU455HS+gsxu87zXounZzZcydfOBcW7VY3X8p/9K8ox2mRmCStCFaGk598wXC59QIDAFSiB2N1g==",
+  "success": true,
+  "projectFilePath": "D:\\github\\medium.functions\\Medium.Application\\Medium.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fernando\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.1\\microsoft.extensions.dependencyinjection.5.0.1.nupkg.sha512",
+    "C:\\Users\\Fernando\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
